@@ -5,7 +5,7 @@
 int main()
 {
 
-char data[]= "hello this is memcpy Example 1 ";
+char data[]= "hello this is memcpy Example-1 ";
 char *buffer;
 buffer = malloc(strlen(data)*sizeof(data[0]));
 
